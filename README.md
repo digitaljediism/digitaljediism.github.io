@@ -6,3 +6,5 @@ aplicable to the way we design and create communication apps:
 Among other things it provides a simple line of reasoning `"Do I really treat the communication of my users as holy?"` with all the implications `"If it's holy I must give him full control (export)!"`, `"If it's holy I need to provide e2e encryption!"`, etc.
 
 And of course, having a good metaphysical reason to stick it to Facebook is quite a bonus in itself. :-)
+
+![DIGITAL JEDIISM](https://avatars1.githubusercontent.com/u/11433761?v=3&s=200)
